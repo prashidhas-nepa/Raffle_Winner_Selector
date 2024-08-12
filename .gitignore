@@ -1,0 +1,19 @@
+# Ignore virtual environment directory
+venv/
+env/
+.venv/
+SpaceX/
+
+# Ignore environment-specific configuration files
+.env
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore other unwanted files or directories (add more if necessary)
+.DS_Store
+.idea/
+.vscode/
+
+.github/

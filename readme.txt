@@ -1,0 +1,1 @@
+Excel file has a sheet named "Sheet1" and that the sheet contains a column labeled "Customer Code"
